@@ -9,3 +9,9 @@ BUILD
 
 ```
 
+TESTS
+
+```
+./gradlew test
+
+```
