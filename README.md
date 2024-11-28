@@ -1,2 +1,2 @@
 # thumbgen
-Generating covers for PPT and PPTX files
+Generating a thumbnails for PPT and PPTX files
