@@ -1,5 +1,5 @@
 # thumbgen
-Generating a thumbnails for PPT and PPTX files
+Generating media thumbnails for PPT and PPTX files
 
 
 BUILD
